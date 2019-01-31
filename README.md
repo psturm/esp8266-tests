@@ -1,4 +1,4 @@
-# First steps: ESP866
+# First steps: ESP8266
 
 Some quick test scripts for an ESP8266 microncontroller (https://en.wikipedia.org/wiki/ESP8266)
 
